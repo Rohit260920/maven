@@ -5,7 +5,7 @@
 
 <a href="https://placementwithpraveen.blogspot.com">Click Here To See rohit IT Training Schedules</a>
   <br>
-  <a href="https://wipro.mywipro.com">My Wipro</a>
+  <a href="https://mywipro.wipro.com">My Wipro</a>
   
   
   <h2> Call Us : + 91 - 79 96 26 77 65 </h2>
