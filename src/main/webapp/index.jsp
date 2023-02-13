@@ -6,6 +6,6 @@
 <a href="https://rohitech.com/online-training-schedules">Click Here To See rohit IT Training Schedules</a>
   
   <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
-  <a href="www.google.com">Google</a>
+  <a href="https://www.google.com">Google</a>
 </body>
 </html>
